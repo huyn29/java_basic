@@ -1,3 +1,3 @@
 public interface SapXepInterface {
-    public void sapXepTang
+    //public void sapXepTang
 }
