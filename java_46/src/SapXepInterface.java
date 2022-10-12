@@ -1,3 +1,4 @@
 public interface SapXepInterface {
-    //public void sapXepTang
+    public void sapXepTang(double arr[]);
+    public void sapXepGiam(double arr[]);
 }

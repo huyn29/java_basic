@@ -1,0 +1,3 @@
+Cach su dung tren vscode
+    Tao project moi: ctrl + shift + p
+    Chay code: ctrl + shift + n
